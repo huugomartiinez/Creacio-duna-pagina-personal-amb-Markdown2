@@ -10,6 +10,6 @@ un projecte que m'agradaria retomar en un futur.
 --------------------------------------------------------------------------------
 7. **Habilitats**: Tinc l'habilitat de estar sese respirar 3 minuts.
 8. **Xarxes socials**: 
-([Instagram:](https://www.instagram.com/huugo.martiinez/)
-9. **Fotografia**: (![La meva fotografia](/home/smx2b/Imatges/Captures de pantalla/Captura de pantalla de 2023-09-19 13-00-45.png))
+[Instagram](https://www.instagram.com/huugo.martiinez/)
+9. **Fotografia**: (![La meva fotografia] (/home/smx2b/Imatges/Captures de pantalla/Captura de pantalla de 2023-09-19 13-00-45.png))
 10. 
