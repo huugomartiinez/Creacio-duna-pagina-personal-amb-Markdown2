@@ -8,7 +8,7 @@
 - Tocar el piano
 4. **Educació**: Estic estudiant el CFGM de SMX al *Puig Castellar* i també estudiant per treure'm el títol de C1 d'angles.
 5. **Experiència laboral**: No tinc.
-6. **Projectes destacats**: ```Un projecte destacat que vaig començar fa tempa era el de crear la meva propia empresa.´´´
+6. **Projectes destacats**: Un projecte destacat que vaig començar fa tempa era el de crear la meva propia empresa.
 -------------------------------------------------------------------------------
 Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mòbils, pero vaig tenir que deixar l'idea ja que s'em feia impossible per varies raons: era un nen de 14 anys, no tenia diners i a sobre, estaba estudian alhora.
 
@@ -19,3 +19,10 @@ Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mò
 [Instagram](https://www.instagram.com/huugo.martiinez/)
 9. **Fotografia**: ![La meva fotografia](la-meva-foto.png)
 10. **Enllaços addicionals**: Cap
+```sing namespace std;
+ 
+int main() {
+    int edad = 25;
+    double salario = 1500.75;
+    char letra = 'X';
+    bool esCierto = true;```
