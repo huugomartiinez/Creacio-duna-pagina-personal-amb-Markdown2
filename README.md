@@ -11,5 +11,5 @@ Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mò
 7. **Habilitats**: Tinc l'habilitat de estar sese respirar 3 minuts.
 8. **Xarxes socials**: 
 [Instagram](https://www.instagram.com/huugo.martiinez/)
-9. **Fotografia**: (![La meva fotografia] (/home/smx2b/Imatges/Captures de pantalla/Captura de pantalla de 2023-09-19 13-00-45.png))
+9. **Fotografia**: (![La meva fotografia] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdoratheexplorer%2Fimages%2Ff%2Ff1%2FSwiper_20.jpg%2Frevision%2Flatest%3Fcb%3D20221123144916&tbnid=W9W4nZ80_OqBlM&vet=12ahUKEwjFw9HxxLaBAxVQoScCHdeDDGwQMygAegQIARBp..i&imgrefurl=https%3A%2F%2Fdora.fandom.com%2Fwiki%2FSwiper&docid=DzvvasmdOrwScM&w=1065&h=1036&q=swiper&client=firefox-b-d&ved=2ahUKEwjFw9HxxLaBAxVQoScCHdeDDGwQMygAegQIARBp))
 10. 
