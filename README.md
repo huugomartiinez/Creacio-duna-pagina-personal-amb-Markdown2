@@ -5,9 +5,8 @@
 4. **Educació**: Estic estudiant el CFGM de SMX al *Puig Castellar* i també estudiant per treure'm el títol de C1 d'angles.
 5. **Experiència laboral**: No tinc.
 6. **Projectes destacats**: Un projecte destacat que vaig començar fa tempa era el de crear la meva propia empresa.
-
 -------------------------------------------------------------------------------
--Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mòbils, pero vaig tenir que deixar l'idea ja que s'em feia impossible per varies raons: era un nen de 14 anys, no tenia diners i a sobre, estaba estudian alhora.>Es un projecte que m'agradaria retomar en un futur.
+Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mòbils, pero vaig tenir que deixar l'idea ja que s'em feia impossible per varies raons: era un nen de 14 anys, no tenia diners i a sobre, estaba estudian alhora.>Es un projecte que m'agradaria retomar en un futur.
 --------------------------------------------------------------------------------
 7. **Habilitats**: Tinc l'habilitat de estar sese respirar 3 minuts.
 8. **Xarxes socials**: 
