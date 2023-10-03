@@ -23,3 +23,11 @@ int main() {
     double salario = 1500.75;
     char letra = 'X';
     bool esCierto = true;```
+```<html>
+	<head>
+		<title>Mi página de ejemplo</title>
+	</head>
+	<body>
+	Aquí va el contenido
+	</body>
+</html>```
