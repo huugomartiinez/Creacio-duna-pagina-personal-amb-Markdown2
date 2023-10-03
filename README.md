@@ -1,24 +1,20 @@
 # Creacio-duna-pagina-personal-amb-Markdown2
 1. **Introducció**: Em dic Hugo Martinez i m'agrada llegir.
-2. **Dades personals**: Hugo Martinez, Badalona (Barcelona).
-3. **Aficionats i interessos**: 
-- Llegir
-- Jugar a ping-pong
-- Escoltar música
-- Tocar el piano
-4. **Educació**: Estic estudiant el CFGM de SMX al *Puig Castellar* i també estudiant per treure'm el títol de C1 d'angles.
-5. **Experiència laboral**: No tinc.
-6. **Projectes destacats**: Un projecte destacat que vaig començar fa tempa era el de crear la meva propia empresa.
+- **Dades personals**: Hugo Martinez, Badalona (Barcelona).
+- **Aficionats i interessos**: Llegir, jugar a ping-pong, escoltar música i tocar el piano
+2. **Educació**: Estic estudiant el CFGM de SMX al *Puig Castellar* i també estudiant per treure'm el títol de C1 d'angles.
+- **Experiència laboral**: No tinc.
+- **Projectes destacats**: Un projecte destacat que vaig començar fa tempa era el de crear la meva propia empresa.
 -------------------------------------------------------------------------------
 Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mòbils, pero vaig tenir que deixar l'idea ja que s'em feia impossible per varies raons: era un nen de 14 anys, no tenia diners i a sobre, estaba estudian alhora.
 
 >Es un projecte que m'agradaria retomar en un futur.
 --------------------------------------------------------------------------------
-7. **Habilitats**: Tinc l'habilitat de estar sense respirar 3 minuts.
-8. **Xarxes socials**: 
+3.  **Habilitats**: Tinc l'habilitat de estar sense respirar 3 minuts.
+4. **Xarxes socials**: 
 [Instagram](https://www.instagram.com/huugo.martiinez/)
-9. **Fotografia**: ![La meva fotografia](la-meva-foto.png)
-10. **Enllaços addicionals**: Cap
+- **Fotografia**: ![La meva fotografia](la-meva-foto.png)
+
 ```sing namespace std;
  
 int main() {
