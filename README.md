@@ -12,8 +12,9 @@ Fa ja tres anys, vaig tenir l'idea de crear una empresa d'arreglar telèfons mò
 --------------------------------------------------------------------------------
 3.  **Habilitats**: Tinc l'habilitat de estar sense respirar 3 minuts.
 4. **Xarxes socials**: 
-[Instagram](https://www.instagram.com/huugo.martiinez/)
-- **Fotografia**: ![La meva fotografia](la-meva-foto.png)
+Aquesta es una de les fotos que tinc al meu [Instagram](https://www.instagram.com/huugo.martiinez/)
+
+![La meva fotografia](la-meva-foto.png)
 
 ```sing namespace std;
  
